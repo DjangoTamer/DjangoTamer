@@ -1,6 +1,4 @@
-# Hi there, I'm Slava 👋</h1>
-
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Back-End+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&background=5920FF00&width=435&lines=Hi+there%2C+I'm+Slava+%F0%9F%91%8B;Back-End+Web+Developer)](https://git.io/typing-svg)
 
 #### Back-end:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,5 +28,6 @@ ADDITIONAL:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=djangotamer&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 RESOURCE:
+https://github.com/denvercoder1/readme-typing-svg
 https://github.com/Ileriayo/markdown-badges
 -->
