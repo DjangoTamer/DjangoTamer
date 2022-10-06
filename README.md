@@ -1,16 +1,34 @@
-<h1 align='center'>Hi there, I'm Slava 👋</h1>
-<h3>Back-End Web Developer</h3><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Back-End+Web+Developer)](https://git.io/typing-svg)<br>
+# Hi there, I'm Slava 👋</h1>
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Back-End+Web+Developer)](https://git.io/typing-svg)
+
+#### Back-end:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)<br>
+
+#### Databases:
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)<br>
+
+#### Front-end:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br>
+
+#### Tools:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)<br>
+
+#### Learning:
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<br>
+<br>
+![](https://komarev.com/ghpvc/?username=DjangoTamer)
 
 <!--
-Here are some ideas to get you started:
+ADDITIONAL:
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=djangotamer&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+RESOURCE:
+https://github.com/Ileriayo/markdown-badges
 -->
