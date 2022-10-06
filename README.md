@@ -1,8 +1,8 @@
-### Hi there 👋
+<h1 align='center'>Hi there, I'm Slava 👋</h1>
+<h3>Back-End Web Developer</h3><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Back-End+Web+Developer)](https://git.io/typing-svg)<br>
 
 <!--
-**DjangoTamer/DjangoTamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
